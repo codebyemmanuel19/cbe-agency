@@ -162,13 +162,13 @@
 @media (max-width: 768px) {
   .hero {
     min-height: 100vh;
-    padding: 40px 24px 48px;
+    padding: 20px;
     align-items: center;
   }
 
 
   .hero-content {
-    max-width: 100%;
+    max-width: 100vh;
   }
 
   .hero-content h1 {
