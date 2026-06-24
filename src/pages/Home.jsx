@@ -4,6 +4,11 @@ import "./Home.css"
 function Home() {
   return (
     <header className="hero">
+      {/* Animated blobs */}
+      <div className="blob blob-1" />
+      <div className="blob blob-2" />
+      <div className="blob blob-3" />
+
       <div className="hero-content">
         <h1>
           We Build Digital <br />
